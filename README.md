@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🔭 &nbsp;I'm currently working at Jajal Medical Services PVT. LTD.\
 🎓 &nbsp;I'm currently studying PROGRAMMING & DATA SCIENCE at the IIT Madras.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Image Processing, and Machine Vision.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -87,7 +88,7 @@ Here are some ideas to get you started:
 
 -----
 <!--  Credts: [Aditya Vikram Singh](https://github.com/AVS1508) -->
-
+<!-- <img alt="Jajal Medical" src="https://github.com/dwijmistry11/dwijmistry11/blob/2aded8f96a6473dea0e14b3203646a0acbb8a910/assets/logo.svg" width='100' align="right"/> -->
 Last Edited on: 21-Sep-2021
 
 
