@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🔭 &nbsp;I'm currently working at Jajal Medical Services PVT. LTD.\
-🎓 &nbsp;I'm currently studying PROGRAMMING & DATA SCIENCE at the IIT Madras.\
+🎓 &nbsp;I'm currently studying Programming & data science at the IIT Madras.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Image Processing, and Machine Vision.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dwijmistry11@gmail.com! I'll try to respond as soon as I can.
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+<!-- ✉️ &nbsp;You can shoot me an email at dwijmistry11@gmail.com! I'll try to respond as soon as I can. \-->
 <!-- ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
