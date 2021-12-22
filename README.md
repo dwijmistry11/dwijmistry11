@@ -1,7 +1,7 @@
 <h1 align="center">
   
   Hello, &lt;coders/&gt;!
-  <a target="_blank">
+  <a href="https://github.com/dwijmistry11">
     <img src="https://github.com/dwijmistry11/dwijmistry11/blob/7e45751d72d996b24a0d194b415a5cda19b36093/assets/hi.gif" width="60" />
   </a>
 </h1>
@@ -9,7 +9,7 @@
 
 <br/>
 <br/>
-<a target="_blank">
+<a href="https://github.com/dwijmistry11">
   <img align="right" height="200"  alt="GIF" src="https://github.com/dwijmistry11/dwijmistry11/blob/5e00700bbb5ea44392c5dfdf453abfd55842884d/assets/AI%20and%20Deep%20Learning.gif">
 </a>
 
