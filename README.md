@@ -42,15 +42,11 @@
   <a href="https://github.com/dwijmistry11">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwijmistry11&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+  <br/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt=" " width="860"/>
+
 </p>
-</details>
-<br>
- 
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dwijmistry11&theme=react-dark&hide_border=true&area=true) -->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</br>
 
 
 -----
