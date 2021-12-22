@@ -13,11 +13,11 @@
   <img align="right" height="200"  alt="GIF" src="https://github.com/dwijmistry11/dwijmistry11/blob/5e00700bbb5ea44392c5dfdf453abfd55842884d/assets/AI%20and%20Deep%20Learning.gif">
 </a>
 
+- 🪔  **अप्प दीपो भव:**  (Be your own light)
 - 🔭 I’m currently studing **Programming and Data Science** at **IIT, Madras.**
 - 🌱 I’m currently learning **Python and Qt.**
 - 👯 I’m looking to collaborate on **Image processing.**
 - 💬 Ask Me About Anything [here](https://github.com/dwijmistry11/dwijmistry11/issues/1) ! I am happy to help.
-- 🪔  **अप्प दीपो भव:**  (Be your own light)
 <br/>
 
 
