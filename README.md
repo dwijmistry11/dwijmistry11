@@ -14,7 +14,7 @@
 </a>
 
 - 🪔  **अप्प दीपो भव:**  (Be your own light)
-- 🔭 I’m currently studing **Programming and Data Science** at **IIT, Madras.**
+<!-- - 🔭 I’m currently studing **Programming and Data Science** at **IIT, Madras.** -->
 - 🌱 I’m currently learning **Python and Qt.**
 - 👯 I’m looking to collaborate on **Image processing.**
 - 💬 Ask Me About Anything [here](https://github.com/dwijmistry11/dwijmistry11/issues/1) ! I am happy to help.
