@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/dwijmistry11" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img src="https://gpvc.arturio.dev/dwijmistry11" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/dwijmistry11?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/dwijmistry11?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
