@@ -8,7 +8,7 @@ Project Lead
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/dwijmistry11/)
-* ✉️  You can contact me at [dwijmistry11@gmail.com](mailto:dwijmistry11@gmail.com)
+* ✉️  You can contact me at [hello@dwijmistry.com](mailto:hello@dwijmistry.com)
 * 🧠  I'm learning Machine vision
 * 🤝  I'm open to collaborating on AI - ML
 * ⚡  The only way to do great work is to love what you do.
