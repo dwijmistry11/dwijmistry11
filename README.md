@@ -36,6 +36,9 @@ src="https://img.shields.io/github/followers/dwijmistry11?logo=github&style=for-
 
 ### Badges
 
+[![@dwijmistry11's Holopin board](https://holopin.me/dwijmistry11)](https://holopin.io/@dwijmistry11)
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dwijmistry11"><img src="https://github-readme-stats.vercel.app/api?username=dwijmistry11&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="dwijmistry11's GitHub stats" /></a>
