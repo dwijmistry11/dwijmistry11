@@ -47,8 +47,8 @@ src="https://img.shields.io/github/followers/dwijmistry11?logo=github&style=for-
 
 <a href="https://app.daily.dev/dwijmistry"><img src="https://api.daily.dev/devcards/18d90aef50cf451d9fb491d1c8341354.png?r=26n" width="300" alt="Dwij Mistry's Dev Card"/></a>
 
-<a href="http://www.github.com/dwijmistry11"><img src="https://activity-graph.herokuapp.com/graph?username=dwijmistry11&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<!-- <a href="http://www.github.com/dwijmistry11"><img src="https://activity-graph.herokuapp.com/graph?username=dwijmistry11&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ -->
 
 
 <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt=" " width="1000"/>
