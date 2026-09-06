@@ -1,18 +1,8 @@
-<table>
-<tr>
-<td>
-
 # Dwij Mistry
-Senior Software Engineer &amp; Project Lead<br>
-<b>Medical Imaging &amp; AI</b>
 
-</td>
-<td align="right">
-<sub>EXPERIENCE</sub><br><b>8 years</b><br>
-<sub>BASED IN</sub><br><b>Vadodara, IN</b>
-</td>
-</tr>
-</table>
+Senior Software Engineer &amp; Project Lead · **Medical Imaging &amp; AI**
+
+<sub>**8 YEARS** EXPERIENCE&nbsp;&nbsp;·&nbsp;&nbsp;BASED IN **VADODARA, INDIA**</sub>
 
 ### `// about`
 
