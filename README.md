@@ -1,6 +1,18 @@
-<p align="center">
-  <img src="assets/aperture-header.svg" width="900" alt="Dwij Mistry — Senior Software Engineer and Project Lead, Medical Imaging and AI. 8 years experience, product MySegmenter, built to IEC 62304, based in Vadodara." />
-</p>
+<table>
+<tr>
+<td>
+
+# Dwij Mistry
+Senior Software Engineer &amp; Project Lead<br>
+<b>Medical Imaging &amp; AI</b>
+
+</td>
+<td align="right">
+<sub>EXPERIENCE</sub><br><b>8 years</b><br>
+<sub>BASED IN</sub><br><b>Vadodara, IN</b>
+</td>
+</tr>
+</table>
 
 ### `// about`
 
@@ -8,32 +20,12 @@ I build high performance, regulated medical imaging software in **C++, Python, a
 
 ### `// capabilities`
 
-**Languages**  
-![C++](https://img.shields.io/badge/C%2B%2B-0f766e?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-0f766e?style=flat-square&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-0f766e?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=mysql&logoColor=white)
-
-**Imaging &amp; AI**  
-![VTK](https://img.shields.io/badge/VTK-0d9488?style=flat-square)
-![ITK](https://img.shields.io/badge/ITK-0d9488?style=flat-square)
-![nnU-Net](https://img.shields.io/badge/nnU--Net-0d9488?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d9488?style=flat-square&logo=pytorch&logoColor=white)
-![CT / MRI](https://img.shields.io/badge/CT%20%2F%20MRI-0d9488?style=flat-square)
-
-**Tooling**  
-![Qt5](https://img.shields.io/badge/Qt5-0d9488?style=flat-square&logo=qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-0d9488?style=flat-square&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d9488?style=flat-square&logo=git&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-0d9488?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d9488?style=flat-square&logo=mathworks&logoColor=white)
-
-**Practice**  
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-134e4a?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-134e4a?style=flat-square)
-![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-134e4a?style=flat-square)
-![Regulated SDLC](https://img.shields.io/badge/Regulated%20SDLC-134e4a?style=flat-square)
+<table>
+<tr><th align="left">Languages</th><td><code>C++</code> <code>Python</code> <code>C</code> <code>Embedded C</code> <code>SQL</code></td></tr>
+<tr><th align="left">Imaging &amp; AI</th><td><code>VTK</code> <code>ITK</code> <code>nnU-Net</code> <code>PyTorch</code> <code>CT / MRI</code></td></tr>
+<tr><th align="left">Tooling</th><td><code>Qt5</code> <code>CMake</code> <code>Git</code> <code>LabVIEW</code> <code>MATLAB</code></td></tr>
+<tr><th align="left">Practice</th><td><code>Software Architecture</code> <code>Performance</code> <code>Agile / Scrum</code> <code>Regulated SDLC</code></td></tr>
+</table>
 
 ### `// timeline`
 
@@ -55,8 +47,6 @@ I build high performance, regulated medical imaging software in **C++, Python, a
 
 ### `// connect`
 
-[![Portfolio](https://img.shields.io/badge/dwij.dev-0d9488?style=flat-square&logo=vercel&logoColor=white)](https://dwij.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwijmistry11)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dwijmistry11@gmail.com)
+**[dwij.dev](https://dwij.dev)** · **[LinkedIn](https://www.linkedin.com/in/dwijmistry11)** · **[Email](mailto:dwijmistry11@gmail.com)**
 
 <sub>अप्प दीपो भव: · be your own light</sub>
